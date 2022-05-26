@@ -1,7 +1,7 @@
-### Hotel management system
+### Cosmetic management system
 
 <!--
-**hotel management system is system that helps the admin to easly manage all the problems .
+**Cosmetic management system is system that helps the admin to easly manage all the problems .
 
 Here are some ideas to get you started:
 
